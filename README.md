@@ -6,7 +6,6 @@
 <p>I have covered many topics such as:-</P>
 <ul>
 <li>adding dynamic html elements, attributes, classes and ids</li>
-<li>using setTimeout or setInterval</li>
 <li>using local storage</li>
 <li>and much more..</li>
 </ul>
